@@ -104,8 +104,8 @@ Group_14	Name				github username
 --------------------------------------------------------------------
 
 
-Member 1:Indhu Sudhakaran                            Indhusudhakaran
-Member 2:JAYA MARIAM JOSEPH                   jaya-joseph
+Member 1:Indhu Sudhakaran                      Indhusudhakaran
+Member 2:JAYA MARIAM JOSEPH                    jaya-joseph
 Member 3:JITHISHNA T A
 
 Group_15	Name				github username
