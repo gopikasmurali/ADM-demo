@@ -17,17 +17,17 @@ Member 3: AJITH KUMAR M S
 Group_2		Name				github username
 --------------------------------------------------------------------
 
-Member 1: AKASH.M.VADHYAR                          Akashmv06
-Member 2:Akhil Balakrishnan                       abakm
+Member 1: AKASH.M.VADHYAR                Akashmv06
+Member 2:Akhil Balakrishnan              abakm
 Member 3:AKHIL SUDHAN		                 akhil07ak
 
 Group_3		Name				github username
 --------------------------------------------------------------------
 
-Member 1: ALBERT P BABU
-Member 2: ARUN K BABU
-Member 3: ALBIN C SEBASTIAN
-Member 4: BOBIN MATHEW MURIKKATTU
+Member 1: ALBERT P BABU			                    albert-p-babu
+Member 2: ARUN K BABU                           arunkbabu90
+Member 3: ALBIN C SEBASTIAN                     albincsebastian
+Member 4: BOBIN MATHEW MURIKKATTU               BobinMathew
 
 Group_4		Name				github username
 --------------------------------------------------------------------
@@ -40,9 +40,9 @@ Member 3:FEBIN JACS GEORGE
 Group_5		Name				github username
 --------------------------------------------------------------------
 
-Member 1:JOBIN J PUTHETTU
-Member 2:MIDHUN   VIJAYAN
-Member 3: MOHAMMED ASHIQUE P
+Member 1:JOBIN J PUTHETTU               jobinputhettu
+Member 2:MIDHUN   VIJAYAN                midhun-mid
+Member 3: MOHAMMED ASHIQUE P          MOHDASHIQUEP
 
 Group_6		Name				github username
 --------------------------------------------------------------------
@@ -60,8 +60,8 @@ Member 3: Kiran Raj
 Group_8		Name				github username
 --------------------------------------------------------------------
 
-Member 1: Rahul R				27px
-Member 2: Sarath M                              Shiva-Sarath
+Member 1: Rahul R				      27px
+Member 2: Sarath M            Shiva-Sarath
 Member 3: Sam Varghese				samvarghese-hub
 
 Group_9		Name				github username
@@ -76,7 +76,7 @@ Group_10	Name				github username
 
 Member 1: Anisha Mary Francis
 Member 2: ANJANA E
-Member 3:
+Member 3:Anju M M
 
 Group_11	Name				github username
 --------------------------------------------------------------------
@@ -88,9 +88,9 @@ Member 3:ARYAMOL A P
 Group_12	Name				github username
 --------------------------------------------------------------------
 
-Member 1:Ashly Mohan
-Member 2:Aswathy Unnikrishnan
-Member 3: Aswini K S
+Member 1:Ashly Mohan           ashly21                             
+Member 2:Aswathy Unnikrishnan  Aswathy22
+Member 3: Aswini K S				   Aswini-achu
 
 Group_13	Name				github username
 --------------------------------------------------------------------
@@ -102,9 +102,9 @@ Member 3:Gopika S                  gopikasmurali
 Group_14	Name				github username
 --------------------------------------------------------------------
 
-Member 1:Indhu Sudhakaran
-Member 2:JAYA MARIAM JOSEPH
-Member 3:JITHISHNA T A
+Member 1:Indhu Sudhakaran       Indhusudhakaran
+Member 2:JAYA MARIAM JOSEPH     jaya-joseph
+Member 3:JITHISHNA T A          jithishnata
 
 Group_15	Name				github username
 --------------------------------------------------------------------
